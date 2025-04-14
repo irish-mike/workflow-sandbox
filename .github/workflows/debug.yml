@@ -13,4 +13,4 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Run Debug Script
-        run: ./scripts/debug.sh2
+        run: .github/scripts/debug.sh
